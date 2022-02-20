@@ -1,5 +1,6 @@
 # Linear-regressions-ncm
-Estimate linear regressions using non-conventional methods (ncm)
+Estimate the coefficients of linear regressions is the best way to build intuition of non-conventional methods (ncm).
+
 
 Acknowledgments:
 - https://ekamperi.github.io/mathematics/2020/12/20/tensorflow-custom-training-loops.html
